@@ -25,7 +25,7 @@ public class probaproba2 {
 
 }
 
-        //    SAAAMMM SI RESIO PROBLEMMMM DOKTOREEEEEEEE !!!!!!!!!
+        
        //ukoliko dodje do situacije da se mora koristiti XPath, radimo sledece:
        // pisani kod koji je npr "#" prebacujemo u prepoznatljivi xPath tako sto cemo ispisati novi kod koji ce sadrzati potrebne reci
        // input[@placeholder='Name']
